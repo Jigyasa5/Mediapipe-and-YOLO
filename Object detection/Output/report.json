@@ -1,0 +1,10 @@
+{
+    "total_frames": 0,
+    "class_counts": {
+        "person": 20,
+        "car": 12,
+        "dog": 1,
+        "traffic light": 1,
+        "bicycle": 1
+    }
+}
